@@ -13,6 +13,7 @@
 		63E14D70247CEF3500AE3FB8 /* Shaders.metal in Sources */ = {isa = PBXBuildFile; fileRef = 63E14D6F247CEF3500AE3FB8 /* Shaders.metal */; };
 		63E14D73247CEF3600AE3FB8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 63E14D72247CEF3600AE3FB8 /* Assets.xcassets */; };
 		63E14D76247CEF3600AE3FB8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 63E14D74247CEF3600AE3FB8 /* Main.storyboard */; };
+		63E14D7F247CF11E00AE3FB8 /* Primitive.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E14D7E247CF11E00AE3FB8 /* Primitive.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		63E14D75247CEF3600AE3FB8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		63E14D77247CEF3600AE3FB8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		63E14D78247CEF3600AE3FB8 /* Playground.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Playground.entitlements; sourceTree = "<group>"; };
+		63E14D7E247CF11E00AE3FB8 /* Primitive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Primitive.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 			children = (
 				63E14D69247CEF3500AE3FB8 /* AppDelegate.swift */,
 				63E14D6B247CEF3500AE3FB8 /* GameViewController.swift */,
+				63E14D7E247CF11E00AE3FB8 /* Primitive.swift */,
 				63E14D6D247CEF3500AE3FB8 /* Renderer.swift */,
 				63E14D6F247CEF3500AE3FB8 /* Shaders.metal */,
 				63E14D71247CEF3500AE3FB8 /* ShaderTypes.h */,
@@ -145,6 +148,7 @@
 				63E14D6C247CEF3500AE3FB8 /* GameViewController.swift in Sources */,
 				63E14D6E247CEF3500AE3FB8 /* Renderer.swift in Sources */,
 				63E14D6A247CEF3500AE3FB8 /* AppDelegate.swift in Sources */,
+				63E14D7F247CF11E00AE3FB8 /* Primitive.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
