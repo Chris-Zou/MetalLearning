@@ -5,7 +5,7 @@
 //  Created by zpp on 2020/5/26.
 //  Copyright © 2020 zpp. All rights reserved.
 //
-
+/*
 import Cocoa
 
 @NSApplicationMain
@@ -26,3 +26,4 @@ class AppDelegate: NSObject, NSApplicationDelegate {
     }
     
 }
+*/
